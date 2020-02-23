@@ -1254,4 +1254,26 @@ Wire Wire Line
 	3450 4150 3650 4150
 Wire Wire Line
 	3450 4250 3650 4250
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E5268FD
+P 6300 1100
+F 0 "H2" H 6400 1146 50  0000 L CNN
+F 1 "MountingHole" H 6400 1055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 6300 1100 50  0001 C CNN
+F 3 "~" H 6300 1100 50  0001 C CNN
+	1    6300 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E526EE0
+P 6000 1100
+F 0 "H1" H 6100 1146 50  0000 L CNN
+F 1 "MountingHole" H 6100 1055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO7380" H 6000 1100 50  0001 C CNN
+F 3 "~" H 6000 1100 50  0001 C CNN
+	1    6000 1100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
